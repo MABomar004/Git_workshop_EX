@@ -4,4 +4,4 @@
 3. Choose your GitHub account as the destination for forking . 
 # Instruction B:
 1. Add the command and there discription 
- 
+ 2. Cloning in feature Branch 
